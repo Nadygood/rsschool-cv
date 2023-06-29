@@ -24,7 +24,7 @@ I have a technical mind. I like working with codes and numbers. That's why I dec
 
 ## Code example:
 
-'''
+```
  <head>
 
    <meta charset="UTF-8">
@@ -37,8 +37,7 @@ I have a technical mind. I like working with codes and numbers. That's why I dec
    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="css/style.min.css">
    </head>
-'''
-
+```
 
 ## Education:
 
